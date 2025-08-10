@@ -1,5 +1,5 @@
 function g_g()
-    numero_secreto = rand(1:100)
+    secret-number = rand(1:100)
     attemptsg = 0
     win_g = false
     
